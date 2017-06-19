@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 
-  s.name         = "CLNetworking"
+  s.name         = "KKNetworking"
   s.version      = "1.0.1"
   s.summary      = "网络请求封装"
   s.description  = <<-DESC
