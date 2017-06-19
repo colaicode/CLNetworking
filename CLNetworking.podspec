@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.source_files  = "CLNetworking/CLNetworking/*.{h,m}"
   s.public_header_files = "CLNetworking/CLNetworking/*.h" 
   s.requires_arc = true
-
+  s.dependency "AFNetworking", "~> 3.0"
   
 
 
