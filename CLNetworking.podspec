@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "CLNetworking"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "网络请求封装"
   s.description  = <<-DESC
   基于AFNetWorking的封装
